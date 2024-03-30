@@ -35,28 +35,24 @@ Output: You can output data to the browser using the echo or print statements.
 ```
 
 ```php
-Copy code
 echo "Hello, World!";
 print "Hello, World!";
 String Concatenation: You can concatenate strings using the . operator.
 ```
 
 ```php
-Copy code
 $greeting = "Hello, " . $name;
 echo $greeting;
 Arrays: PHP supports both indexed arrays and associative arrays.
 ```
 
 ```php
-Copy code
 $numbers = array(1, 2, 3, 4, 5); // Indexed array
 $person = array("name" => "John", "age" => 25); // Associative array
 Control Structures: PHP supports common control structures like if-else statements, loops, and switch-case statements.
 ```
 
 ```php
-Copy code
 // If-else statement
 if ($age >= 18) {
     echo "You are an adult.";
