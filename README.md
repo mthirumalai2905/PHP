@@ -1,4 +1,4 @@
-PHP Tags: PHP code is typically embedded within HTML, and it's enclosed within <?php and ?> tags. For example:
+PHP Tags: PHP code are embedded within HTML, and it's enclosed within <?php and ?> tags. For example:
 
 ```php
 <?php
